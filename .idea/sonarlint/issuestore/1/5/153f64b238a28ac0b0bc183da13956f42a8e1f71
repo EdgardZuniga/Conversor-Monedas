@@ -1,0 +1,13 @@
+
+˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼°Ò¾ûÿÿÿÿ8€êºñ1J$d662ee25-dd67-4dbc-a37e-fdfe98bc0a84
+“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊæÛ8êºñ1J$facfdd33-42ef-461e-9be5-73c27d45910d
+¨
+java:S1488"eImmediately return this expression instead of assigning it to the temporary variable "formattedJson".(¤úÍ†8„êºñ1J$1f391025-be02-4f2b-b7d7-0f2ff2374f8d
+Ÿ
+java:S1488$"]Immediately return this expression instead of assigning it to the temporary variable "money".(Úƒ$8„êºñ1J$681f8c8d-5218-46a0-867a-48f65faff672
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(çÀ¤Ùşÿÿÿÿ8ŞŸºñ1J$92c000a8-e5ff-4fca-a710-ba57d0f69c4b
+z
+java:S1874"2Remove this use of "JsonParser"; it is deprecated.(‘¹¯µıÿÿÿÿ8•êºñ1J$ab062e97-4e6f-4aaf-999f-2375912f39f6
+p
+java:S1874"-Remove this use of "parse"; it is deprecated.(ôÊÿ×8–êºñ1J$0f60dd5b-7014-44bc-b4a1-b96d662080aa
+r	java:S106"+Replace this use of System.out by a logger.(¨¶ÑÍşÿÿÿÿ8—êºñ1J$74b874df-7345-4cfa-b1b8-45164c630b82

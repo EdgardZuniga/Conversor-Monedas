@@ -1,0 +1,8 @@
+
+˜	java:S117
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñ‹ï°ıÿÿÿÿ8ˆ½”ºñ1J$e198caa1-d13a-469c-851b-8757d46c7f38
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(çÀ¤Ùşÿÿÿÿ8î¤Ÿºñ1J$1993e35c-9e58-43bc-8389-1d7056869488
+	java:S116"NRename this field "URL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºë½Ñ8‘½”ºñ1J$d735df62-7662-478d-8ef6-c903b7b574fb
+n
+java:S1874"+Remove this use of "URL"; it is deprecated.(À—À¹8›½”ºñ1J$93f01f4a-ac99-42cc-9c1f-bd0894e45684
+r	java:S106"+Replace this use of System.out by a logger.(¨¶ÑÍşÿÿÿÿ8½”ºñ1J$df0b23ed-795c-42c1-b4e3-a8be2a2ae9ef

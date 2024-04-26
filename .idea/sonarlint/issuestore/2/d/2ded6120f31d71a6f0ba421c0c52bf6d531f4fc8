@@ -1,0 +1,54 @@
+
+•
+java:S1192@"MDefine a constant instead of duplicating this literal "El valor de " 6 times.(”çÃ¹üÿÿÿÿ8øŒÙ¾ñ1J$0d83336a-9978-4958-b3de-f9843d176df4
+š
+java:S11926"XDefine a constant instead of duplicating this literal "Cuanto desea convertir?" 6 times.(Á†Äw8á‚Æ¾ñ1J$a2e98dc3-dd5b-4a52-8620-70d9bd11c4c2
+¨
+java:S11929"eDefine a constant instead of duplicating this literal "Los valores no deben ser Negativos.
+" 6 times.(Ïó‡À8Èã×¾ñ1J$1dcfa9cb-5c54-487b-b6e7-0caee94747f0
+
+java:S1192X"FDefine a constant instead of duplicating this literal "[USD]" 3 times.(¨«Íııÿÿÿÿ8ùŒÙ¾ñ1J$a60cb3a2-0571-4630-a306-d24f346482d9
+µ
+java:S1192D"rDefine a constant instead of duplicating this literal "Los valores ingresados solo deben ser NumÃ©ricos." 6 times.(¹‡·œ8ùŒÙ¾ñ1J$08a6c745-9972-4608-95e9-90b6a05e9a9a
+™	java:S117Ó"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š¹™Õûÿÿÿÿ8ûŒÙ¾ñ1J$5bfe7786-2e4b-4303-8bc8-39daff33c5ab
+–	java:S116"ORename this field "Menu" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„Ò¨ıÿÿÿÿ8¯„Æ¾ñ1J$000ed9fe-3cbd-4bd1-8dac-7e601987abf7
+•	java:S116"NRename this field "ARS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Íí‚‘ıÿÿÿÿ8¯„Æ¾ñ1J$5eb027b0-1fb1-45a3-b906-ab4fa98b7a39
+•	java:S116"NRename this field "COP" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏÓœÛøÿÿÿÿ8¯„Æ¾ñ1J$46e4e30c-be5c-4efc-b3a7-a73b17887a0a
+	java:S116"NRename this field "BRL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²²¸8¯„Æ¾ñ1J$f70ac6f4-32da-42be-9a87-e039e757e5c4
+•	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙøÈÅúÿÿÿÿ8³„Æ¾ñ1J$a236e23b-6761-40fc-9f37-6bc0a3f34e8b
+›
+java:S3776"SRefactor this method to reduce its Cognitive Complexity from 101 to the 15 allowed.(ÙøÈÅúÿÿÿÿ8´„Æ¾ñ1J$f9872347-29d8-4b37-a009-e2bcb34b20e3
+m	java:S106#"+Replace this use of System.out by a logger.(«¬¯ù8¶„Æ¾ñ1J$9d351811-f4ea-4495-8e7a-cdf512e63a83
+j
+java:S1125."'Remove the unnecessary boolean literal.(ö©‹Ú8¼„Æ¾ñ1J$1792ebcd-c7a2-4bfb-b664-5ccc39e1c3cd
+j
+java:S1125<"'Remove the unnecessary boolean literal.(ö©‹Ú8—Ù¾ñ1J$587ac057-21f4-40a5-bf6f-31ac813d55dc
+j
+java:S1125G"'Remove the unnecessary boolean literal.(ö©‹Ú8šÙ¾ñ1J$5ea2a020-9c8e-4824-959e-8418db8dc164
+j
+java:S1125T"'Remove the unnecessary boolean literal.(ö©‹Ú8œÙ¾ñ1J$f8231f96-b827-4c87-8cd5-e9aba47411ea
+j
+java:S1125^"'Remove the unnecessary boolean literal.(ö©‹Ú8Ù¾ñ1J$34e7322a-3ac7-43f2-8d1a-bd5b80ef5f5d
+j
+java:S1125l"'Remove the unnecessary boolean literal.(ö©‹Ú8 Ù¾ñ1J$ba5d1116-2d34-4dae-a1b3-08ef4e726c84
+j
+java:S1125v"'Remove the unnecessary boolean literal.(ö©‹Ú8¢Ù¾ñ1J$11104937-2ada-423e-ac06-984eebf66105
+k
+java:S1125ƒ"'Remove the unnecessary boolean literal.(ö©‹Ú8£Ù¾ñ1J$8c818bb3-f112-4395-89ce-a04bef4775ce
+k
+java:S1125"'Remove the unnecessary boolean literal.(ö©‹Ú8¹¤ä¾ñ1J$4657f91d-b9bc-4d84-8210-a74e8cde18af
+k
+java:S1125›"'Remove the unnecessary boolean literal.(ö©‹Ú8¬Õä¾ñ1J$db08455a-6b95-4cb6-9848-93cbd5f914d6
+k
+java:S1125¥"'Remove the unnecessary boolean literal.(ö©‹Ú8§€å¾ñ1J$75f46a46-59c0-47df-894b-b3ba0c09901e
+k
+java:S1125²"'Remove the unnecessary boolean literal.(ö©‹Ú8Ö¤å¾ñ1J$1961dddc-a672-4268-8612-92a723fc005b
+k
+java:S1125¼"'Remove the unnecessary boolean literal.(ö©‹Ú8¶Áå¾ñ1J$20b38d24-2719-4463-ae4c-d47b7950b4c0
+k
+java:S1125Ê"'Remove the unnecessary boolean literal.(ö©‹Ú8Ìäå¾ñ1J$48c72aee-89dc-42ed-a07b-62e434ffb4fc
+–	java:S100Û"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾ÓÇúÿÿÿÿ8¦Ù¾ñ1J$2a54ad73-cd9c-4dc8-b127-bfa096a54a06
+s	java:S106Ü"+Replace this use of System.out by a logger.(øºÑûúÿÿÿÿ8¦Ù¾ñ1J$7c9be77c-5af4-4f09-9d6a-d0e59ea048a1
+–	java:S100ß"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«İç²ÿÿÿÿÿ8¦Ù¾ñ1J$c7511fca-7300-4257-af9c-ffecc315c812
+
+java:S6541"ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 158 to 64, Complexity from 29 to 14, Nesting Level from 5 to 2, Number of Variables from 12 to 6.(ÙøÈÅúÿÿÿÿ8Ç„Æ¾ñ1J$1d143491-132b-4be6-b5a1-e91529da3a9c

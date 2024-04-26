@@ -3,7 +3,7 @@ import java.net.HttpURLConnection;
 import java.net.URL;
 
 public class ApiManager {
-    private String URL;
+    private final String URL;
     private HttpURLConnection request;
 
     public ApiManager(String URL) {

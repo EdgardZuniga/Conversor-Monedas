@@ -1,8 +1,7 @@
 import HttpManager.ApiManager;
-import java.io.IOException;
 
 public class Main {
-    public static void main(String[] args) throws IOException {
+    public static void main(String[] args) {
         // Setting URL
         String url_str = "https://v6.exchangerate-api.com/v6/19e332f43cfc7bf09ecc09f9/latest/USD";
 
